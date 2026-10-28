@@ -1,0 +1,13 @@
+# Go
+/backend/server
+*.exe
+*.test
+*.out
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
+
+# Env files
+.env
