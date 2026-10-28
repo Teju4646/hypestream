@@ -3,7 +3,7 @@
 A small live-streaming commerce platform: **Subscriptions, Gift Subs, Bits and Hype Train**, built in Go.
 Viewers support a creator, every contribution is recorded once in a ledger, and every viewer watching the channel sees it live.
 
-![tests](https://github.com/OWNER/REPO/actions/workflows/test.yml/badge.svg)
+![tests](https://github.com/Teju4646/hypestream/actions/workflows/test.yml/badge.svg)
 
 ## What it does
 
